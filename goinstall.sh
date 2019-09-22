@@ -15,7 +15,7 @@ case $OS in
         "x86_64")
             ARCH=amd64
             ;;
-        "armv6")
+        "armv7l")
             ARCH=armv6l
             ;;
         "armv8")
